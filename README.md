@@ -1,8 +1,10 @@
 ## Проект авторизация - регистрация
 
-https://skr.sh/sGegoSBJ6Lt?a и https://skr.sh/sGe2jkyf8AP?a регистрация
-https://skr.sh/sGeA3Eo1yx2?a и https://skr.sh/sGekyrc9Fca?a авторизация
-https://skr.sh/sGeKWyQvVO1?a получить данные текущего юзера
+https://skr.sh/sGegoSBJ6Lt?a и https://skr.sh/sGe2jkyf8AP?a - регистрация;
+
+https://skr.sh/sGeA3Eo1yx2?a и https://skr.sh/sGekyrc9Fca?a - авторизация;
+
+https://skr.sh/sGeKWyQvVO1?a - получить данные текущего юзера.
 
 ### Результат:
 
